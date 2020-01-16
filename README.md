@@ -2,8 +2,10 @@
 
 ## Why these
 
-From the so-called Undergraduate Science and Technology Project
-As you know, Blind Signature, Blockchain, Differential Privacy and Homomorphic Encryption are four research directions in Information Security
+From the so-called Undergraduate Science and Technology Project.
+
+As you know, Blind Signature, Blockchain, Differential Privacy and Homomorphic Encryption are four research directions in Information Security.
+
 This is a sample of blind signature
 
 ## Project Structure
@@ -52,6 +54,7 @@ This is a sample of blind signature
 ## Usage
 
 Several lines means it has no practical functions but theoretical method, and according comments.
+
 So just read, no need to run the code.
 
 - BlindSigSample.java
